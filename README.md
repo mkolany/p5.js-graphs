@@ -1,6 +1,6 @@
 ## Overview
 
-p5.js-graphs is a Processing.js project for drawing math-related plots in a lovely way.
+p5.js-graphs is a Processing.js project for drawing math-related plots in a lovely way. [Demo](https://editor.p5js.org/mkolany/sketches/lR_J_njC9).
 
 ## How to
 
@@ -12,5 +12,4 @@ Open index.html. Feel free to comment/uncomment desired piece of code in order t
 
 ![Lorenz strange attractor](https://i.imgur.com/uTejz8K.png)
 
-![Meddling with difference equations](https://i.imgur.com/3AuaSuI.png)
 
