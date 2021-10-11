@@ -8,7 +8,7 @@ Open index.html. Feel free to comment/uncomment desired piece of code in order t
 
 ## Example images
 
-![Clifford attractor](https://i.imgur.com/nu2Dv3g.png)
+![Clifford attractor](https://i.imgur.com/s4fROQn.png)
 
 ![Lorenz strange attractor](https://i.imgur.com/uTejz8K.png)
 
